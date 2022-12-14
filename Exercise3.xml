@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<collection>
+    <film1>
+        <title>Властелин колец: две крепости</title>
+        <genre>фэнтези</genre>
+        <year>2002</year>
+        <producer>Питер Джексон</producer>
+        <annotation>Братство распалось, но Кольцо Всевластья должно быть уничтожено. Битва за Средиземье продолжается.</annotation>
+    </film1>
+    <film2>
+        <title>Пятый элемент</title>
+        <genre>
+            <genre1>фантастика</genre1>
+            <genre2>боевик</genre2>
+        </genre>
+        <year>1997</year>
+        <producer>Люк Бессон</producer>
+        <annotation>Последняя надежда человечества — безалаберный нью-йоркский таксист. Самый обаятельный фильм Люка Бессона</annotation>
+    </film2>
+    <film3>
+        <title>Железный человек</title>
+        <genre>фантастика</genre>
+        <year>2008</year>
+        <producer>Джон Фавро</producer>
+        <annotation>Попав в плен, Тони Старк изобретает суперкостюм и спасает мир. Блокбастер, запустивший киновселенную Marvel</annotation>
+    </film3>
+    <film4>
+        <title>Всегда говори "ДА"</title>
+        <genre>комедия</genre>
+        <year>2008</year>
+        <producer>Пейтон Рид</producer>
+        <annotation>Депрессивный главный герой всегда и всем говорил «нет» — например, друзьям, если они зовут куда-то. Но в один прекрасный день он заключает соглашение, по которому всегда должен отвечать «Да» на любое предложение...</annotation>
+    </film4>
+    <film5>
+        <title>Такси</title>
+        <genre>комедия</genre>
+        <year>1998</year>
+        <producer>Люк Бессон</producer>
+        <annotation>Дуэт инспектора полиции и таксиста-лихача — против грабителей банков. Начало знаменитой франшизы Люка Бессона</annotation>
+    </film5>
+
+</collection>
